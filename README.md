@@ -6,7 +6,7 @@ A full-stack ML web app that looks at resting-state EEG recordings and helps tel
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 
 <img width="1456" height="837" alt="home" src="https://github.com/user-attachments/assets/7a7b6638-baff-47a2-922c-a0dd237e69b2" />
