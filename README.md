@@ -17,7 +17,6 @@ A full-stack ML web app that looks at resting-state EEG recordings and helps tel
 <img width="1110" height="433" alt="disease-info" src="https://github.com/user-attachments/assets/ae2ad059-eecf-4278-a74d-8d7d9f8ce258" />
 <img width="1434" height="659" alt="features" src="https://github.com/user-attachments/assets/af51f4c5-ba8f-4d38-a64a-3cd4f32f5ed3" />
 <img width="1231" height="410" alt="footer" src="https://github.com/user-attachments/assets/8ed6b47f-956c-4f71-9113-a3db0ee577e3" />
-<img width="1568" height="8985" alt="full-page" src="https://github.com/user-attachments/assets/39360b1b-e453-4355-8306-e57b629c6fb7" />
 <img width="1568" height="495" alt="how-it-works" src="https://github.com/user-attachments/assets/11a98b05-57dc-4982-af6d-1cfe28970f34" />
 <img width="1568" height="314" alt="stats" src="https://github.com/user-attachments/assets/500e3bc4-d94d-4171-93dd-06ee40dd2b97" />
 
