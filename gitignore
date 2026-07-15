@@ -1,0 +1,103 @@
+### ============================
+### Python
+### ============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+### ============================
+### Virtual environments
+### ============================
+venv/
+env/
+ENV/
+.venv/
+
+### ============================
+### Jupyter Notebook
+### ============================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+### ============================
+### Flask runtime / uploads
+### ============================
+uploads/
+instance/
+flask_session/
+
+### ============================
+### Trained models & pickled artifacts
+### (do not commit — see project README "Known Limitations";
+### share the training notebook instead so models are reproducible)
+### ============================
+models/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pt
+*.pth
+
+### ============================
+### Held-out test data / generated data files
+### (may contain real patient-derived features — do not commit)
+### ============================
+heldout_test.npz
+heldout_test.pkl
+production_scaler.json
+*.npz
+
+### ============================
+### Dataset (large + often has usage/redistribution restrictions)
+### Re-download from OpenNeuro ds004504 instead of committing raw data
+### ============================
+dataset/
+gsp-alzheimer-detection-main/features_epoched_v2.csv
+
+### ============================
+### Project archives
+### ============================
+*.zip
+*.tar.gz
+*.rar
+
+### ============================
+### Logs
+### ============================
+*.log
+logs/
+
+### ============================
+### Environment / secrets
+### ============================
+.env
+.env.*
+*.env
+
+### ============================
+### IDE / editor
+### ============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+### ============================
+### OS-specific
+### ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### ============================
+### Misc
+### ============================
+*.bak
+*.tmp
